@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EasyScreenCast/EasyScreenCast.git"
+    "url": "git+https://github.com/pshentsoff/EasyScreenCast.git"
   },
   "author": "",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/EasyScreenCast/EasyScreenCast/issues"
+    "url": "https://github.com/pshentsoff/EasyScreenCast/issues"
   },
-  "homepage": "https://github.com/EasyScreenCast/EasyScreenCast#readme",
+  "homepage": "https://github.com/pshentsoff/EasyScreenCast#readme",
   "devDependencies": {
     "eslint": "^5.0.1",
     "prettier": "^2.0.4"

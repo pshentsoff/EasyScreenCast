@@ -119,7 +119,7 @@ function TalkativeLog(msg) {
 
 var ESConGIcon = new Gio.FileIcon({
     file: Gio.File.new_for_path(
-        Me.dir.get_child("images/icon_recording.svg").get_path()
+        Me.dir.get_child("images/icon_default.svg").get_path()
     ),
 });
 
@@ -131,7 +131,7 @@ var ESCoffGIcon = new Gio.FileIcon({
 
 var ESConGIconSel = new Gio.FileIcon({
     file: Gio.File.new_for_path(
-        Me.dir.get_child("images/icon_recordingSel.svg").get_path()
+        Me.dir.get_child("images/icon_defaultSel.svg").get_path()
     ),
 });
 
